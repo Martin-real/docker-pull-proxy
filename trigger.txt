@@ -1,12 +1,12 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
 
-langgenius/dify-api:0.6.13 registry.cn-shanghai.aliyuncs.com/langgenius/dify-api:0.6.13
 
-langgenius/dify-web:0.6.13 registry.cn-shanghai.aliyuncs.com/langgenius/dify-web:0.6.13
+langgenius/dify-api:0.6.13 registry.cn-shanghai.aliyuncs.com/docker-dify-test/langgenius/dify-api:0.6.13
 
-postgres:15-alpine registry.cn-shanghai.aliyuncs.com/postgres:15-alpine
+langgenius/dify-web:0.6.13 registry.cn-shanghai.aliyuncs.com/docker-dify-test/langgenius/dify-web:0.6.13
 
-langgenius/dify-sandbox:0.2.1 registry.cn-shanghai.aliyuncs.com/langgenius/dify-sandbox:0.2.1
+postgres:15-alpine registry.cn-shanghai.aliyuncs.com/docker-dify-test/postgres:15-alpine
 
-semitechnologies/weaviate:1.19.0 registry.cn-shanghai.aliyuncs.com/semitechnologies/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.1 registry.cn-shanghai.aliyuncs.com/docker-dify-test/langgenius/dify-sandbox:0.2.1
+
+semitechnologies/weaviate:1.19.0 registry.cn-shanghai.aliyuncs.com/docker-dify-test/semitechnologies/weaviate:1.19.0
 
