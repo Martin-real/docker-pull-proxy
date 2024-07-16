@@ -1,11 +1,17 @@
 
-langgenius/dify-api:0.6.13 registry.cn-shanghai.aliyuncs.com/docker-dify-test/dify-api:0.6.13
+langgenius/dify-api:0.6.13 registry.cn-shanghai.aliyuncs.com/docker-dify-test/dify-api:0.6.14
 
-langgenius/dify-web:0.6.13 registry.cn-shanghai.aliyuncs.com/docker-dify-test/dify-web:0.6.13
+langgenius/dify-web:0.6.13 registry.cn-shanghai.aliyuncs.com/docker-dify-test/dify-web:0.6.14
 
 postgres:15-alpine registry.cn-shanghai.aliyuncs.com/docker-dify-test/postgres:15-alpine
 
 langgenius/dify-sandbox:0.2.1 registry.cn-shanghai.aliyuncs.com/docker-dify-test/dify-sandbox:0.2.1
 
 semitechnologies/weaviate:1.19.0 registry.cn-shanghai.aliyuncs.com/docker-dify-test/weaviate:1.19.0
+
+langgenius/qdrant:v1.7.3 registry.cn-shanghai.aliyuncs.com/docker-dify-test/qdrant:v1.7.3
+
+tensorchord/pgvecto-rs:pg16-v0.2.0 registry.cn-shanghai.aliyuncs.com/docker-dify-test/pgvecto-rs:pg16-v0.2.0
+
+
 
