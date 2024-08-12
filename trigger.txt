@@ -1,3 +1,4 @@
+mysql:8.0.33 registry.cn-shanghai.aliyuncs.com/mzy-docker/mysql:8.0.33
 
 langgenius/dify-api:0.6.13 registry.cn-shanghai.aliyuncs.com/docker-dify-test/dify-api:0.6.14
 
@@ -12,6 +13,8 @@ semitechnologies/weaviate:1.19.0 registry.cn-shanghai.aliyuncs.com/docker-dify-t
 langgenius/qdrant:v1.7.3 registry.cn-shanghai.aliyuncs.com/docker-dify-test/qdrant:v1.7.3
 
 tensorchord/pgvecto-rs:pg16-v0.2.0 registry.cn-shanghai.aliyuncs.com/docker-dify-test/pgvecto-rs:pg16-v0.2.0
+
+
 
 
 
