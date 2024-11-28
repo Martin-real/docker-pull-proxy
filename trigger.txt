@@ -1,6 +1,6 @@
-mysql:8.0.33 registry.cn-shanghai.aliyuncs.com/mzy-docker/mysql:8.0.33
 
 
 
+mysql:8.0.33 registry.cn-shanghai.aliyuncs.com/docker-dify-test/mysql:8.0.33
 
 
